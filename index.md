@@ -55,5 +55,5 @@ Conclusions :
 - J’ai pu implémenter absolument tout ce que je voulais faire
 - J’ai pu mieux connaître Unity dans son ensemble
 - J’ai pu organiser mon project ainsi que mes scripts
--Mieux comprendre le c# ainsi que la programmation en général 
--Et surtout le plus important je me suis énormément amusé !
+- Mieux comprendre le c# ainsi que la programmation en général 
+- Et surtout le plus important je me suis énormément amusé !

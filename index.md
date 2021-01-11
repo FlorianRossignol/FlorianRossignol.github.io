@@ -8,6 +8,8 @@ J’ai commencé pars me mettre en tête de faire un jeu un peu trop compliqué 
 
 Concept du jeu : 
 
+![](C:\Users\fmusi\OneDrive\Images\Captures d’écran\wintuto.png)
+
 On incarne un petit lapin qui doit se débrouiller pour retrouver sa carotte, il va passer de plateformes en plateformes pour atteindre son but.
 
 

@@ -36,7 +36,7 @@ De ce fait j’ai pu utiliser l’input manager de Unity pour notamment le jump 
 
 ![](https://FlorianRossignol.github.io/Images/inputmanager3.png)
 ![](https://FlorianRossignol.github.io/Images/inputmanager4.png)
-![](https://FlorianRossignol.github.io/Images/input manager5.png)
+![](https://FlorianRossignol.github.io/Images/inputmanager5.png)
 
 # Utiliser le Get axis Horizontal :
 

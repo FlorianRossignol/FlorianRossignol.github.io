@@ -35,10 +35,8 @@ J’ai pu notamment  apprendre à coder un jump reset avec deux variables qui in
 De ce fait j’ai pu utiliser l’input manager de Unity pour notamment le jump à la manette et le menu pause du jeu, j’ai pu directement changer les inputs dans l’input manager pour que ça fonctionne avec le bouton start de la manette.
 
 ![](https://FlorianRossignol.github.io/Images/inputmanager3.png)
-
 ![](https://FlorianRossignol.github.io/Images/inputmanager4.png)
-
-![](https://FlorianRossignol.github.io/Images/inputmanager5.png)
+![](https://FlorianRossignol.github.io/Images/input manager5.png)
 
 # Utiliser le Get axis Horizontal :
 

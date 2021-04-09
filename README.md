@@ -1,6 +1,6 @@
 # Sommaire:
 
-## [Portfolio](https://FlorianRossignol.github.io/Pages/BlogpostGPR4100.1.md)
+## [Portfolio](https://FlorianRossignol.github.io/Pages/BlogpostGPR4100.1.)
 
 ## [CV + Lettre de Motivation Exemple]()
 

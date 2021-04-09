@@ -1,4 +1,4 @@
-# Mon dévloppement Proffesionnel pour les prochaines Années :
+# Mon développement Professionnel pour les prochaines Années :
 
 Pour ce faire j'ai décidé de créer 5 étapes à suivre les voici :
 

@@ -1,4 +1,4 @@
-# Dans le cadre de ma formation j'ai du écricre 4 blogpost les voici :
+# Dans le cadre de ma formation j'ai du écrire 4 blogpost les voici :
 
 # Blogpost 1
 

@@ -26,7 +26,7 @@ Créer le jeux vidéo de mon rêve avec mon équipe et le sortir sur Steam.
 
 # Sommaire:
 
-## [Portfolio](https://FlorianRossignol.github.io/Pages/BlogpostGPR4100.1)
+## [Portfolio](https://FlorianRossignol.github.io/Pages/Portfolio)
 
 ## [CV Exemple](https://FlorianRossignol.github.io/Fichier/Cvexemple.pdf)
 

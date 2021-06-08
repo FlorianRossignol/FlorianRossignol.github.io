@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-Dans le cadre du module GPR440 j'ai dû dévlopper un jeu généré avec un modèle procédural 
+Dans le cadre du module GPR440 j'ai dû développer un jeu généré avec un modèle procédural 
 en incluant des IA.
 
 ## Implémenter la génération Procédural 
@@ -12,9 +12,9 @@ histoire de créer une sorte de caverne aléatoire.
 
 ## Premier problème et résolution 
 
-Pour la génération Procédural j'avais le code de base mais il fallait savoir comment,dans cette 
+Pour la génération Procédural j'avais le code de base mais il fallait savoir comment, dans cette 
 caverne générée aléatoirement implémenter ma préfab pour le Player Character ainsi qu'instancier des Colliders et 
-Enemis.
+Ennemis.
 
 ## Pour les Colliders 
 
@@ -47,7 +47,7 @@ ce qui nous donne ça :
 
 ## Pour l'objectif et les enemis
 
-Et bien c'est à peu près simmilaire sauf qu'en plus de l'instancier on doit checker 
+Et bien c'est à peu près similaire sauf qu'en plus de l'instancier on doit checker 
 que le player ainsi que l'objectif ne sois pas instancié au même endroit
 
 Ce qui donne ceci
@@ -74,17 +74,16 @@ et oui les ennemis sont divertissant mais je voulais d'abord montrer ce que je s
 
 J'ai 2 types d'ia bien distingue
 
-dune un petit slim tout mimi mais qui cours sur vous dés qu'il vous voit !
+d'une un petit slim tout mimi mais qui cours sur vous dés qu'il vous voit !
 
 et de deux un squelette qui va plus lentement mais qui a beaucoup plus d'animation lors qu'il reçoit un coup.
 
 
 ## Conclusion 
 
-- Et bien c'était pas gagné d'avance car au début je ne comprennait pas trop les algorithmes mais je me suis mis à les aimer
-- Car oui ils sont vachement utile les bougrent !
-- J'ai pu bien intégrer plusieurs choses et c'était vraiment très intéréssant 
+- Et bien c'était pas gagné d'avance car au début je ne comprenait pas trop les algorithmes mais je me suis mis à les aimer
+- Car oui ils sont vachement utile les bougres !
+- J'ai pu bien intégrer plusieurs choses et c'était vraiment très intéressant 
 - Vivement le module physique
-
 
 

@@ -36,7 +36,7 @@ le meilleur moyens d'apprendre.
 
 Pour le moteur physique j'ai du de base implémenter les différentes classes d'ont j'allait avoir besoin
 
-## 1 Rigidbody ::
+## 1 Rigidbody 
 
 
 ## 2 Classe pour les cercles 

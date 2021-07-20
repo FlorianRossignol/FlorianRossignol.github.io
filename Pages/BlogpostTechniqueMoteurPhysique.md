@@ -37,16 +37,38 @@ le meilleur moyens d'apprendre.
 Pour le moteur physique j'ai du de base implémenter les différentes classes d'ont j'allait avoir besoin
 
 ## 1 Rigidbody 
+![](https://FlorianRossignol.github.io/Images/moteurphysique/Rigidbody.h.png)
 
+
+![](https://FlorianRossignol.github.io/Images/moteurphysique/rigidbody1.cpp.png)
+
+
+![](https://FlorianRossignol.github.io/Images/moteurphysique/rigidbody2.cpp.png)
 
 ## 2 Classe pour les cercles 
 
+![](https://FlorianRossignol.github.io/Images/moteurphysique/Cercle1.h.png)
+
+![](https://FlorianRossignol.github.io/Images/moteurphysique/Cercle2.h.png)
+
 ## 3 Classe pour les polygones
+
+![](https://FlorianRossignol.github.io/Images/moteurphysique/Polygone.h.png)
+
 
 ## différentes classes pour les calcules physiques et mathématique
 
+![](https://FlorianRossignol.github.io/Images/moteurphysique/Mrua.png)
+
+
+![](https://FlorianRossignol.github.io/Images/moteurphysique/Vector2.png)
+
+
+![](https://FlorianRossignol.github.io/Images/moteurphysique/matrix.png)
+
 ## implémentation des collisions entre cercles
 
+![](https://FlorianRossignol.github.io/Images/moteurphysique/Collisioncercle.png)
 
 ## 1 Création de la classe et Implémentation des différentes fonction 
 
@@ -54,19 +76,28 @@ j'ai du créer différentes fonctions pour donner de la physique ainsi que des c
 
 On commence pars créer une fonction de cercle :
 
-//image
+![](https://FlorianRossignol.github.io/Images/moteurphysique/createcircle.png)
 
 puis ensuite plusieurs fonctions pour simuler et inclure mon cercle dans l'espace :
 
-//image 
+![](https://FlorianRossignol.github.io/Images/moteurphysique/Collisioncercle.png)
 
 Pour le final on implémente tout ça correctement dans un cpp à pars :
 
+
+![](https://FlorianRossignol.github.io/Images/moteurphysique/cercleimplem.png)
+
 ## 1 Créer une classe qui utilise sfml pour l'affichage graphique 
+
+
 
 ## 2 Créer le cercle avec les différentes fonctions précédemment crééer
 
+![](https://FlorianRossignol.github.io/Images/moteurphysique/sfmlcircle.png)
+
 ## 3 Et voici le rendu de l'affichage
+
+![](https://FlorianRossignol.github.io/Images/moteurphysique/ezgif.com-gif-maker.gif)
 
 ## Difficulté rencontrée
 

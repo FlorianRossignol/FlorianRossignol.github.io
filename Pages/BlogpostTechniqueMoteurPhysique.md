@@ -99,7 +99,7 @@ Pour le final on implémente tout ça correctement dans un cpp à pars :
 
 ![](https://FlorianRossignol.github.io/Images/moteurphysique/ezgif.com-gif-maker.gif)
 
-## Difficulté rencontrée
+## Difficultée rencontrée
 
 Après mon cercle j'ai voulu implémenter des polygones ainsi que des collision entre eux.
 Malheureusement après énormément d'éffort je n'ai pas réussi à l'implémenter

@@ -8,23 +8,23 @@ Pour la fin de ma première année de formation je devais rendre en fin d'année
 
 Pour le moteur physique j'avais plusieurs défis à régler.
 
-## 1 / pouvoir ratrapper mes lacunes en math et physique
+## 1 / pouvoir rattrapper mes lacunes en math et physique
 
 Contrairement à certains je partais avec aucune notion de physique et peu de bagage en Math,
 car suite à mon parcours je n'ai jamais vu de physique de ma vie.
 
-J'ai du apprendre beaucoups de choses pendant le module //en plus de me remettre au c++
+J'ai dû apprendre beaucoup de choses pendant le module //en plus de me remettre au c++
 j'ai mis des moyens à l'aide d'amis pour de l'aide dans les deux branches et ai pu réussir à mieux comprendre le tout
 
 ## 2 / pouvoir tout implémenter 
 
-Bien que les cours de ce troisième module étaient très intéressant, le manque de communication part rapport 
-au rendu final étaient très flou voir inexistant, donc j'ai du redoubler d'effort et m'organiser correctement 
+Bien que les cours de ce troisième module étaient très intéressants, le manque de communication par rapport 
+au rendu final était très flou voir inexistant, donc j'ai dû redoubler d'effort et m'organiser correctement 
 pour rendre un moteur phyique dans les temps.
 
 ## La construction du moteur physique 
 
-Le moteur physique a du être dévlopper en plusieurs semaines.
+Le moteur physique à dû être dévlopper en plusieurs semaines.
 On avait les cours purement mathématique et physique le matin pour enchaîner de suite avec l'implémentation.
 
 J'ai absolument adoré le fonctionnement des cours, en effet le faite de voir le théorie puis d'utiliser la théorie
@@ -34,7 +34,7 @@ le meilleur moyens d'apprendre.
 
 ## création des collisions :
 
-Pour le moteur physique j'ai du de base implémenter les différentes classes d'ont j'allait avoir besoin
+Pour le moteur physique j'ai du de base implémenter les différentes classes d'ont j'allais avoir besoin
 
 ## 1 Rigidbody 
 ![](https://FlorianRossignol.github.io/Images/moteurphysique/Rigidbody.h.png)
@@ -56,7 +56,7 @@ Pour le moteur physique j'ai du de base implémenter les différentes classes d'
 ![](https://FlorianRossignol.github.io/Images/moteurphysique/Polygone.h.png)
 
 
-## différentes classes pour les calcules physiques et mathématique
+## différentes classes pour les calcules physiques et mathématiques
 
 ![](https://FlorianRossignol.github.io/Images/moteurphysique/Mrua.png)
 
@@ -70,9 +70,9 @@ Pour le moteur physique j'ai du de base implémenter les différentes classes d'
 
 ![](https://FlorianRossignol.github.io/Images/moteurphysique/Collisioncercle.png)
 
-## 1 Création de la classe et Implémentation des différentes fonction 
+## 1 Création de la classe et Implémentation des différentes fonctions 
 
-j'ai du créer différentes fonctions pour donner de la physique ainsi que des collision pour mes cercles.
+j'ai du créer différentes fonctions pour donner de la physique ainsi que des collisions pour mes cercles.
 
 On commence pars créer une fonction de cercle :
 
@@ -91,7 +91,7 @@ Pour le final on implémente tout ça correctement dans un cpp à pars :
 
 ![](https://FlorianRossignol.github.io/Images/moteurphysique/implemsfmlphysique.png)
 
-## 2 Créer le cercle avec les différentes fonctions précédemment crééer
+## 2 Créer le cercle avec les différentes fonctions précédemment créer
 
 ![](https://FlorianRossignol.github.io/Images/moteurphysique/sfmlcircle.png)
 
@@ -108,5 +108,5 @@ Malheureusement après énormément d'éffort je n'ai pas réussi à l'implémen
 
 - J'ai beaucoup aimé faire le moteur physique en c++
 - Beaucoup aimé apprendre presque depuis le début
-- Décu de pas avoir pu implémenter mes polygones
+- Déçu de pas avoir pu implémenter mes polygones
 - Mais je sais à la fin du module qu'être programmeur engine n'est pas fait pour moi 

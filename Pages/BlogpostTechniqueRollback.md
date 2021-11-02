@@ -44,21 +44,21 @@ Pour un pong il faut une boule
 
 alors j'ai pu créer ma boule dans le BallGameManager
 
-![](https://FlorianRossignol.github.io/Images/BallManager.h.png)
+![](https://FlorianRossignol.github.io/Images/RollbackGame/BallManager.h.png)
 
 puis un cpp
 
-![](https://FlorianRossignol.github.io/Images/BallManager.cpp.png)
+![](https://FlorianRossignol.github.io/Images/RollbackGame/BallManager.cpp.png)
 
 ## Load les texture et faire un background
 
 Pour la suite du jeu il me fallais un background je me suis donc collé à la tâche
 
-![](https://FlorianRossignol.github.io/Images/ClientManagerInit.png)
+![](https://FlorianRossignol.github.io/Images/RollbackGame/ClientManagerInit.png)
 
 Puis donner tout les composants pour la texture du background
 
-![](https://FlorianRossignol.github.io/Images/ClientManagerInit2.png)
+![](https://FlorianRossignol.github.io/Images/RollbackGame/ClientManagerInit2.png)
 
 ## Spawn le player et la ball
 
@@ -66,19 +66,19 @@ pars la suite il me fallait implémenter le player et la ball
 
 d'abord dans le client :
 
-![](https://FlorianRossignol.github.io/Images/SpawnBallClient.png)
+![](https://FlorianRossignol.github.io/Images/RollbackGame/SpawnBallClient.png)
 
-![](https://FlorianRossignol.github.io/Images/SpawnPlayerClient.png)
+![](https://FlorianRossignol.github.io/Images/RollbackGame/SpawnPlayerClient.png)
 
 puis sur le serveur :
 
-![](https://FlorianRossignol.github.io/Images/SpawnPlayer1.png)
+![](https://FlorianRossignol.github.io/Images/RollbackGame/SpawnPlayer1.png)
 
-![](https://FlorianRossignol.github.io/Images/SpawnPlayer2.png)
+![](https://FlorianRossignol.github.io/Images/RollbackGame/SpawnPlayer2.png)
 
-![](https://FlorianRossignol.github.io/Images/SpawnBall1.png)
+![](https://FlorianRossignol.github.io/Images/RollbackGame/SpawnBall1.png)
 
-![](https://FlorianRossignol.github.io/Images/Spawnball2.png)
+![](https://FlorianRossignol.github.io/Images/RollbackGame/Spawnball2.png)
 
 
 ## Les échecs 

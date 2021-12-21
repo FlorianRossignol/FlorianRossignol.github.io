@@ -34,16 +34,16 @@ Here I am in the bath, now I have to design the tool
 I first designed a widget to create my tool:
 
 
-![](https://FlorianRossignol.github.io/Images/ToolCheating/tool1.png)
+![](https://FlorianRossignol.github.io/Images/Toolcheating/tool1.png)
 
 then I was able to organize the widget with what I needed 
 
-![](https://FlorianRossignol.github.io/Images/ToolCheating/tool2.png)
+![](https://FlorianRossignol.github.io/Images/Toolcheating/tool2.png)
 
 and the different functions : 
 
 
-![](https://FlorianRossignol.github.io/Images/ToolCheating/tool3.png)
+![](https://FlorianRossignol.github.io/Images/Toolcheating/tool3.png)
 
 To finish I just had to finish my functions
 
@@ -51,7 +51,7 @@ to put a way to activate and deactivate the tool :
 
 
 
-![](https://FlorianRossignol.github.io/Images/ToolCheating/tool4.png)
+![](https://FlorianRossignol.github.io/Images/Toolcheating/tool4.png)
 
 
 

@@ -1,8 +1,8 @@
-**Table of Contents**
+Table of Contents
+=================
 
-[TOCM]
-
-[TOC]
+*[Test](#test)
+*[2TEST](#2test)
 
 # H1 test1
 ## H2 test2

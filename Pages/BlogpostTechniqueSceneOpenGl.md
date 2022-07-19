@@ -1,4 +1,5 @@
-##### Table of Contents
+H1 Table of Contents (Underline)
+=============
 
 *[Test](#test)
 
@@ -6,14 +7,3 @@
 
 <a name="headers"/>
 
-## test
-
-# 2test
-
-## H2 test2
-
-## Headers (Underline)
-
-H1 Header (Underline)
-=============
-ccc

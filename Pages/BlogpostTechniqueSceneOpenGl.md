@@ -66,14 +66,14 @@ white stb lib i can load whit several function an 3d object dirrectly in my scen
 After loading a model we need to load a cubemap, a cubemap is an texture white 6 faces,
 i choose an basic texture map 
 
-![](image texture map)
+![](https://FlorianRossignol.github.io/Images/Scene3dOpengl/Cubemap.png)
 
 ## Final/Scene
 Lets go to set all toghether white object and model load,
 
 this is the final result !
 
-![](iamge scene final)
+![](https://FlorianRossignol.github.io/Images/Scene3dOpengl/giphy2.gif)
 
 ## Conclusion
 

@@ -11,6 +11,8 @@ Table of Contents
 
 [Load Model](#Load/Model)
 
+[Load cubemap](#LoadCubemap)
+
 [Final Scene](#Final/Scene)
 
 <a name="headers"/>
@@ -60,6 +62,12 @@ white stb lib i can load whit several function an 3d object dirrectly in my scen
 
 ![](image 3d object)
 
+## LoadCubemap
+After loading a model we need to load a cubemap, a cubemap is an texture white 6 faces,
+i choose an basic texture map 
+
+![](image texture map)
+
 ## Final/Scene
 Lets go to set all toghether white object and model load,
 
@@ -69,7 +77,7 @@ this is the final result !
 
 ## Conclusion
 
-I need to practice more ! now several day and my vacation i go to setup multiple project, beacause 
-I have some show commings in my final scene i dont implement effect and other.
-I implement framebuffer but cant have time to setup some effect/ exemple ssao etc
-i dont have to go in the computer graphic beaucause i dont have the capacitate.
+- I need to practice more ! now several day and my vacation i go to setup multiple project, beacause 
+- I have some show commings in my final scene i dont implement effect and other.
+- I implement framebuffer but cant have time to setup some effect/ exemple ssao etc
+  i dont have to go in the computer graphic beaucause i dont have the capacitate.

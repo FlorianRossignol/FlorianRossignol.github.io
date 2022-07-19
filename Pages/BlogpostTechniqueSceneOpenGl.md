@@ -1,4 +1,4 @@
-H1 Table of Contents (Underline)
+Table of Contents
 =============
 
 *[Test](#test)

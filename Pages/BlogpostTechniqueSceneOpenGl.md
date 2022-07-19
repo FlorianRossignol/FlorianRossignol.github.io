@@ -20,19 +20,19 @@ For my project i need to create an 3d scene using graphical api.
 
 I used Learn open gl to create my 3d scene !
 
-![](lien image opengl)
+![](https://FlorianRossignol.github.io/Images/Scene3dOpengl/opengl_logo.png)
 
 ## GLSLSHADER
 
 Gls is another proggraming language based on c.
 Gls content as usefull feature like matrix and vector, i based my shader in opengl.
 
-![](image glsl)
+![](https://FlorianRossignol.github.io/Images/Scene3dOpengl/maxresdefault.jpg)
 
 I create my first triangle in opengl !
 
-![](image triangle)
-![](image shader)
+![](https://FlorianRossignol.github.io/Images/Scene3dOpengl/Triangle3d.png)
+![](https://FlorianRossignol.github.io/Images/Scene3dOpengl/shader.png)
 
 ## VAO/VBO
 
@@ -51,7 +51,7 @@ Ambiant is based whit no light reflect an object,
 diffuse is based whit reflect in an object
 and specular based on an reflective propreties of n object 
 
-![](image gif phong)
+![](https://FlorianRossignol.github.io/Images/Scene3dOpengl/giphy.gif)
 
 ## Load/Model
 

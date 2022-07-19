@@ -3,8 +3,10 @@ Table of Contents
 
 [3D API OPENGL](#3dopengl)
 
-*[2TEST](#2test)
+[Light Technique](#LightTechnique)
 
 <a name="headers"/>
 
 ## 3d opengl
+
+## LightTechnique

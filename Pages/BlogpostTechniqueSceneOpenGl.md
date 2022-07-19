@@ -60,6 +60,8 @@ and specular based on an reflective propreties of n object
 After rendering my object white phong technique for light, i need to load an 3d object /obj
 white stb lib i can load whit several function an 3d object dirrectly in my scene!
 
+I have some part to process mesh and texture directly in my object to create my 3d obj object.
+
 ![](image 3d object)
 
 ## LoadCubemap
@@ -75,9 +77,10 @@ this is the final result !
 
 ![](https://FlorianRossignol.github.io/Images/Scene3dOpengl/giphy2.gif)
 
+
 ## Conclusion
 
-- I need to practice more ! now several day and my vacation i go to setup multiple project, beacause 
-- I have some show commings in my final scene i dont implement effect and other.
+- I need to practice more ! now several day and my vacation i go to setup multiple project,
+  beacause i have some show commings in my final scene i dont implement effect and other.
 - I implement framebuffer but cant have time to setup some effect/ exemple ssao etc
   i dont have to go in the computer graphic beaucause i dont have the capacitate.

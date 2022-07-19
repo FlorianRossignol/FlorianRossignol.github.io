@@ -11,7 +11,7 @@ Table of Contents
 
 [Load Model](#Load/Model)
 
-[Final SCene](#Final/Scene)
+[Final Scene](#Final/Scene)
 
 <a name="headers"/>
 

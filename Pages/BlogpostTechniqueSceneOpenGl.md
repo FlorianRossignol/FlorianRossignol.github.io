@@ -70,4 +70,6 @@ this is the final result !
 ## Conclusion
 
 I need to practice more ! now several day and my vacation i go to setup multiple project, beacause 
-i have some show commings in my final scene i dont implement effect and other.
+I have some show commings in my final scene i dont implement effect and other.
+I implement framebuffer but cant have time to setup some effect/ exemple ssao etc
+i dont have to go in the computer graphic beaucause i dont have the capacitate.

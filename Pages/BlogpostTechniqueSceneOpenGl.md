@@ -61,5 +61,13 @@ white stb lib i can load whit several function an 3d object dirrectly in my scen
 ![](image 3d object)
 
 ## Final/Scene
+Lets go to set all toghether white object and model load,
+
+this is the final result !
+
+![](iamge scene final)
 
 ## Conclusion
+
+I need to practice more ! now several day and my vacation i go to setup multiple project, beacause 
+i have some show commings in my final scene i dont implement effect and other.

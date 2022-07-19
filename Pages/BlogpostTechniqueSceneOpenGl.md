@@ -34,7 +34,46 @@ Gls content as usefull feature like matrix and vector, i based my shader in open
 I create my first triangle in opengl !
 
 ![](https://FlorianRossignol.github.io/Images/Scene3dOpengl/Triangle3d.png)
-![](https://FlorianRossignol.github.io/Images/Scene3dOpengl/shader.png)
+
+//example of phong fragment shader
+```#version 330 core
+
+out vec4 FragColor;
+
+in vec3 Normal;
+in vec3 FragPos;
+in vec2 textCoord;
+
+uniform vec3 lightPos;
+uniform vec3 lightColor;
+uniform vec3 objectColor;
+uniform vec3 viewPos;
+uniform sampler2D ourTexture;
+
+void main()
+{
+	//ambient
+	float ambientStrength = 0.1;
+	vec3 ambient = ambientStrength * lightColor;
+	
+	// DIFFUSE
+	vec3 norm = normalize(Normal);
+	vec3 lightDir = normalize(lightPos - FragPos);
+	float Diff = max(dot(norm,lightDir),0.0);
+	vec3 diffuse = Diff * lightColor;
+
+	//specular
+	float specularStrength = 1.5;
+	vec3 viewDir = normalize(viewPos - FragPos);
+	vec3 reflectDir = reflect(-lightDir,norm);
+	//calculate specular component
+	float spec = pow(max(dot(viewDir,reflectDir),0.0),32);
+	vec3 specular = specularStrength * spec * lightColor;
+
+	vec3 result = (ambient + diffuse + specular) * objectColor;
+	FragColor = vec4(result,1.0) * texture(ourTexture,textCoord);
+}```
+
 
 ## VAO/VBO
 
@@ -62,7 +101,7 @@ white stb lib i can load whit several function an 3d object dirrectly in my scen
 
 I have some part to process mesh and texture directly in my object to create my 3d obj object.
 
-![](image 3d object)
+![](https://FlorianRossignol.github.io/Images/Scene3dOpengl/3dobject.png)
 
 ## LoadCubemap
 After loading a model we need to load a cubemap, a cubemap is an texture white 6 faces,

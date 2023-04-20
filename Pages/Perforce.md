@@ -169,7 +169,7 @@ I encounter one big problem during the phase of production. Perforce is free unt
 
 After the project I have some massive skill in Perforce software, for the future is so used in the industry and I have the skill for the demand
 
-**Specially for: **
+**Specially for:**
 
 ------------
 

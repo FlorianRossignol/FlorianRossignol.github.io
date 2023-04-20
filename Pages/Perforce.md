@@ -1,9 +1,12 @@
 # Perforce Devs Ops
 
 
-## PerforceSetup 
+## Context 
 
-For my third year student in game programming, we have to create a big game with art and audio for school. We decided to go on unreal engine 5 and recreate an older pod game based on twin sticks. I need to place an environment source control for all teams working together like audio and art, we decide to go on perforce based on the industry pre required and much storage for the large file like blueprint.
+For my third year studies in game programming we have to create a big game with art and audio for school. We decided to go on unreal engine 5 and recreate an older pod game based on twin sticks called “Aer Racer”. I need to place an environment source control for all teams working together like audio and art, we decide to go on perforce based on the industry pre required and much storage for the large file like blueprint.
+
+## Perforce Setup
+
 
 First we have to setup the server Perforce based on the shool server I download p4 service directly in root server, after that we have to setup the admin profile, I go name a profile and a password for that.
 
@@ -157,10 +160,16 @@ I encounter one big problem during the phase of production. Perforce is free unt
 After the project during my time i go recreate a Perforce Server for my next game jam game, setup the environment and server.
 Learn the different method for managing in perforce root server.
 
+## Take the Aer Racer project a step further
+
+To go farther on Aer Racer concerning Perforce and with the whole project, I could have anticipated the expiration of the license earlier and thus saved several weeks of work, because with this problem encountered, we lost more than two weeks between the license request and the reception.
+I should have gone faster for the setup of the p4ignore, because there too, I took two weeks before having a suitable solution.
+For file conflicts, one solution would have been to make several branches on Perforce so that each person has their own space to work in and only then have something functional distribute the files on the main server.
+
 
 ## Conclusion
 
-After the project I have some massive skill in Perforce software, for the future is so used in the industry and I have the skill for the demand
+After the project I have some skills in Perforce software, for the future is so used in the industry and I have the skill for the demand
 
 **Specially for:**
 
@@ -170,3 +179,5 @@ After the project I have some massive skill in Perforce software, for the future
 - To create a p4 ignore and setup correctly in Perforce client.
 - Update a licence and managing the Perforce server.
 - Skill for Perforce software.
+
+Managing Perforce has taught me a lot about how to use it and I have really enjoyed being in this role. Especially since mastering this tool is an added value to work in the video game industry and it's an experience I'll be able to put forward in my future job applications.

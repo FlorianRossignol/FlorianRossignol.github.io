@@ -152,6 +152,12 @@ some file in this case dont need to push in the server.
 
 I encounter one big problem during the phase of production. Perforce is free until five users created, but for the project we have large more user work in the project, so I need to contact support. These problems create an entire shutdown for Perforce server, all the team cant add the new file until 2 weeks later.	After this have an licence for all users and get a normal traffic for Perforce server.
 
+## Going Further
+
+After the project during my time i go recreate a Perforce Server for my next game jam game, setup the environment and server.
+Learn the different method for managing in perforce root server.
+
+
 ## Conclusion
 
 After the project I have some massive skill in Perforce software, for the future is so used in the industry and I have the skill for the demand

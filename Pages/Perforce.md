@@ -1,18 +1,5 @@
 # Perforce
 
-**Table of Content**
-
-[Perforce Setup](#PerforceSetup)
-
-[Perforce Client](#PerforceClient)
-
-[p4 ignore](#p4ignore)
-
-[Problems](#Problems)
-
-[Conclusion](#Conclusion)
-
-<a name="headers"/>
 
 ## PerforceSetup 
 

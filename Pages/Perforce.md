@@ -28,8 +28,10 @@ After setup correctly the admin profile i need first to create account for the r
 
 ![PerforceClient](http://FlorianRossignol.github.io/Images/Perforce/perforceclient.png "PerforceClient")
 
-In this case we have some functionality :
+In this case we have some functionality:
 
-- **GET LATEST** (for the update and download the new file for the server.)
-- **Refresh** (refresh the database.)
+- **Get Latest** (For the update and download the new file for the server.)
+- **Refresh** (Refresh the database.)
 - **Submit** (Submit your new file to the server.)
+- **Checkout** (With checkout the file you only can edit this.)
+- **Add** (For adding the new file in the server.)

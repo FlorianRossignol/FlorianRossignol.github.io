@@ -3,7 +3,7 @@
 
 ## PerforceSetup 
 
-For the Project I need to place an environment source control for all teams like working togheter like audio and art, we decide to go on perforce based on the industry prerequired and much storage for the large file like blueprint.
+For my third year student in game programming, we have to create a big game with art and audio for school. We decided to go on unreal engine 5 and recreate an older pod game based on twin sticks. I need to place an environment source control for all teams working together like audio and art, we decide to go on perforce based on the industry pre required and much storage for the large file like blueprint.
 
 First we have to setup the server Perforce based on the shool server I download p4 service directly in root server, after that we have to setup the admin profile, I go name a profile and a password for that.
 

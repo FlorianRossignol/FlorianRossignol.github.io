@@ -53,16 +53,22 @@ For the sounds of the pods in general we wanted the sound to evolve according to
 
 ## SoundBank
 When we have all our audio available and the events created, we can build our sound bank, to be able to import everything into our game. To do this we go directly to the sound bank section and take the events to generate them.
-Example of the sound bank created for Aer Racer:
+
+*Example of the sound bank created for Aer Racer:*
+
+![](http://FlorianRossignol.github.io/Images/wwise/soundbank.png)
 
 
 *We take all our events:*
 
+![](http://FlorianRossignol.github.io/Images/wwise/Soundbanque_event.png)
 
 
 *And finally we generate our sound bank:*
 
+![](http://FlorianRossignol.github.io/Images/wwise/soundbank_gennerated.png)
 
+![](http://FlorianRossignol.github.io/Images/wwise/Soundbank_final.png)
 
 
 All the setup is made to create soundbanks that in a triple A game for example, we can divide the soundbank to load the soundbank or soundbanks to optimize the sound because of large projects, we can have up to five GB of data just for the audio data.
@@ -72,12 +78,18 @@ Now that everything is set up for the audio part, we have to integrate our event
 
 Following the integration of WWise we have a new window available to generate our sound bank and have access to the WWise project.
 
+
 *WWise Picker available in Unreal:*
+
+![](http://FlorianRossignol.github.io/Images/wwise/wwise_picker.png)
+
 
 By clicking on Generate SoundBanks you can synchronize sounds, events and game settings in Unreal.
 
 ## Event and game parameter in Unreal
 Now you have to take the events and integrate them by hand in Unreal. Be careful, you have to have exactly the same name as the one in WWise.
+
+![](http://FlorianRossignol.github.io/Images/wwise/Wwise_picker_and_event.png)
 
 After that we have our events directly available in Unreal and we can use them in our code or blueprint!
 
